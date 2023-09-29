@@ -17,14 +17,16 @@ This repository contains the files for an Amazon-like web application. The proje
 - `backend/`: Directory for any backend-related files or logic.
 - `LICENSE`: The license file for this project.
 
-![Main Page](screenshots/amazon_project_01)
-![Checkout Page](screenshots/amazon_project_02)
-![Cart Page](screenshots/amazon_project_03)
 
 
 ## Screenshots
 
 - `screenshots/`: Contains screenshots of the application.
+
+![Main Page](screenshots/amazon_project_01.png)
+![Checkout Page](screenshots/amazon_project_02.png)
+![Cart Page](screenshots/amazon_project_03.png)
+
 
 ## Usage
 
